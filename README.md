@@ -4,4 +4,4 @@ Before proceeding with the demo code, please run `sudo bash setup.sh` to install
 
 To generate the results for a specific scheme, move to the corresponding directory and run `sudo bash setup_library.sh`. These will install the specific FHE library. To generate the results, run `sudo bash generate_results.sh`. Finally, to clean up the temporary files for subsequent reruns (we scritly advise to do so to ensure correctness of the result), run `sudo bash clean_temporary_files.sh`.
 
-For any queries, please feel free to email them to us on [bhuvneshchaturvedi2512@kgpian.iitkgp.ac.in](bhuvneshchaturvedi2512@kgpian.iitkgp.ac.in).
+For any queries, please feel free to email them to us on [bhuvneshchaturvedi2512@kgpian.iitkgp.ac.in](mailto:bhuvneshchaturvedi2512@kgpian.iitkgp.ac.in).
